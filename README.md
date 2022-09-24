@@ -8,7 +8,7 @@ Hello, I'm **Roberto** , I'm *studying* and *dedicating* myself to web developme
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/RobertoBaiochi)
 
 ![Roberto GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoBaiochi&show_icons=true&theme=highcontrast)
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoBaiochi)](https://github.com/Robertobaiochi/github-readme-stats)
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoBaiochi)](https://github.com/RobertoBaiochi/github-readme-stats)
 
 ## Technologies that I work and study. 💻
 
