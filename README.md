@@ -7,11 +7,6 @@ Hello, I'm **Roberto** , I'm *studying* and *dedicating* myself to web developme
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-baiochi/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/RobertoBaiochi)
 
-<div style="display: inline_block" align="left">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=RobertoBaiochi&show_icons=true&theme=onedark" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoBaiochi&layout=compact"/>
-<!--       <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RobertoBaiochi"/> -->
-</div>
 
 ## Technologies that I work and study. 💻
 
