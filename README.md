@@ -1,4 +1,4 @@
-<p style+"align-text: "center"> 
+<p style="align-text: "center"> 
     Hey! I'm **Roberto Baiochi**, I'm a software developer focused on web development.
     I'm currently studying Systems Analysis and Development and working as a Frontend developer.
     My main skills include a variety of technologies and programming languages such as JavaScript, NodeJS, Reactjs/NextJs, TypeScript, HTML, CSS and experience with developing and consuming APIs.
