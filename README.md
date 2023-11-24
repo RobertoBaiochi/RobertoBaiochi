@@ -13,16 +13,16 @@ My name is **Roberto Baiochi** and I am a software developer specializing in web
 
 Although it's not my specialty, but I've written a few lines of code in Python, C/C++ and PHP.
 
-<a  href="https://www.linkedin.com/in/roberto-baiochi/" style="text-decoration: none">
+<a href="https://www.linkedin.com/in/roberto-baiochi/" target="_blank" style="text-decoration: none;">
   <img src="https://github.com/RobertoBaiochi/readmeAssets/blob/main/assets/linkedin.png" width="50px" height="50px" />
 </a>
-<a  href="https://wa.me/+5519988133989" style="text-decoration: none">
+<a href="https://wa.me/+5519988133989" target="_blank" style="text-decoration: none;">
   <img src="https://github.com/RobertoBaiochi/readmeAssets/blob/main/assets/whatsapp.png" width="50px" height="50px" />
 </a>
-<a href="mailto:robertombbaiochi@gmail.com" style="text-decoration: none">
+<a href="mailto:robertombbaiochi@gmail.com" target="_blank" style="text-decoration: none;">
   <img src="https://github.com/RobertoBaiochi/readmeAssets/blob/main/assets/gmail.png" width="50px" height="50px" />
 </a>
-<a href="https://robertobaiochi.com.br" style="text-decoration: none">
+<a href="https://robertobaiochi.com.br" target="_blank" style="text-decoration: none;">
   <img src="https://github.com/RobertoBaiochi/readmeAssets/blob/main/assets/site.png" width="50px" height="50px" />
 </a>
 
