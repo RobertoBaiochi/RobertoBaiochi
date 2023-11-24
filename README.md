@@ -1,10 +1,13 @@
-<p style="align-text: "center"> 
-    Hey! I'm <b>Roberto Baiochi</b>
-    I'm a software developer focused on web development.
-    I'm currently studying Systems Analysis and Development and working as a Frontend developer.
-    My main skills include a variety of technologies and programming languages such as JavaScript, NodeJS, Reactjs/NextJs, TypeScript, HTML, CSS and experience with developing and consuming APIs.
-    And I've already written a few lines of code in Python, C/C++ and PHP.
-</p>
+### Hey There!
+My name is **Roberto Baiochi** and I am a software developer specializing in web development.
+
+:round_pushpin: ~ I am currently living in Brazil and looking for new work opportunities.
+
+:mortar_board: ~ I'm studying Systems Analysis and Development and working as a Frontend developer. 
+
+:computer: ~ I have a variety of technical skills, including using technologies and programming languages such as JavaScript, NodeJS, Reactjs/NextJs, TypeScript, HTML and CSS. Additionally, I have experience with developing and consuming APIs.
+
+Although it's not my specialty, but I've written a few lines of code in Python, C/C++ and PHP.
 
 <hr />
 
@@ -12,17 +15,8 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/RobertoBaiochi)
 
 
-## Technologies that I work and study. 💻
-
-<div style="display: inline_block">
-    <img align="center" maring-right="30" alt="html" width="70" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-    <img align="center" alt="css" width="70" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img align="center" alt="javascript" width="70" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img align="center" alt="typescript" width="70" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-    <img align="center" alt="git" width="70" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-    <img align="center" alt="react" width="70" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="center" alt="next" width="70" height="90"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-    <img align="center" alt="tailwind" width="70" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-    <img align="center" alt="jest" width="70" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-    <img align="center" alt="storybook" width="70" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
-</div>
+## Stack 💻
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,git,postgres,androidstudio)](https://skillicons.dev) 
+<br/>
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
