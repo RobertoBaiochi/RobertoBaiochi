@@ -13,17 +13,17 @@ My name is **Roberto Baiochi** and I am a software developer specializing in web
 
 Although it's not my specialty, but I've written a few lines of code in Python, C/C++ and PHP.
 
-<a  href="https://www.linkedin.com/in/roberto-baiochi/">
-  <img src="https://raw.githubusercontent.com/RobertoBaiochi/readmeAssets/main/assets/linkedin.png?token=GHSAT0AAAAAACIDLYVR33VPVNA6PNE45276ZLAYG2Q" width="50px" height="50px" />
+<a  href="https://www.linkedin.com/in/roberto-baiochi/" style="text-decoration: none">
+  <img src="https://github.com/RobertoBaiochi/readmeAssets/blob/main/assets/linkedin.png" width="50px" height="50px" />
 </a>
-<a  href="https://www.linkedin.com/in/roberto-baiochi/">
-  <img src="https://raw.githubusercontent.com/RobertoBaiochi/readmeAssets/main/assets/whatsapp.png?token=GHSAT0AAAAAACIDLYVQDGTCL34LW536CYPWZLAYHPQ" width="50px" height="50px" />
+<a  href="https://wa.me/+5519988133989" style="text-decoration: none">
+  <img src="https://github.com/RobertoBaiochi/readmeAssets/blob/main/assets/whatsapp.png" width="50px" height="50px" />
 </a>
-<a  href="mailto:robertombbaiochi@gmail.com?subject=link github">
-  <img src="https://raw.githubusercontent.com/RobertoBaiochi/readmeAssets/main/assets/gmail.png?token=GHSAT0AAAAAACIDLYVQLT6X65M7MVM5PC4CZLAYICA" width="50px" height="50px" />
+<a href="mailto:robertombbaiochi@gmail.com" style="text-decoration: none">
+  <img src="https://github.com/RobertoBaiochi/readmeAssets/blob/main/assets/gmail.png" width="50px" height="50px" />
 </a>
-<a  href="https://www.linkedin.com/in/roberto-baiochi/">
-  <img src="https://raw.githubusercontent.com/RobertoBaiochi/readmeAssets/main/assets/site.png?token=GHSAT0AAAAAACIDLYVR7I2LHY6Y3YIEHGMKZLAYIPA" width="50px" height="50px" />
+<a href="https://robertobaiochi.com.br" style="text-decoration: none">
+  <img src="https://github.com/RobertoBaiochi/readmeAssets/blob/main/assets/site.png" width="50px" height="50px" />
 </a>
 
 
