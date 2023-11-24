@@ -1,6 +1,9 @@
 ## About me 🧐
 
-Hello, I'm **Roberto** , I'm *studying* and *dedicating* myself to web development, and I **love** consuming programming content and also developing my own web applications. 
+Hey! I'm **Roberto Baiochi**, I'm a software developer focused on web development.
+I'm currently studying Systems Analysis and Development and working as a Frontend developer.
+My main skills include a variety of technologies and programming languages such as JavaScript, NodeJS, Reactjs/NextJs, TypeScript, HTML, CSS and experience with developing and consuming APIs.
+And I've already written a few lines of code in Python, C/C++ and PHP.
 
 <hr />
 
