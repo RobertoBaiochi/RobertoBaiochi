@@ -13,11 +13,21 @@ My name is **Roberto Baiochi** and I am a software developer specializing in web
 
 Although it's not my specialty, but I've written a few lines of code in Python, C/C++ and PHP.
 
+<a  href="https://www.linkedin.com/in/roberto-baiochi/">
+  <img src="https://raw.githubusercontent.com/RobertoBaiochi/readmeAssets/main/assets/linkedin.png?token=GHSAT0AAAAAACIDLYVR33VPVNA6PNE45276ZLAYG2Q" width="50px" height="50px" />
+</a>
+<a  href="https://www.linkedin.com/in/roberto-baiochi/">
+  <img src="https://raw.githubusercontent.com/RobertoBaiochi/readmeAssets/main/assets/whatsapp.png?token=GHSAT0AAAAAACIDLYVQDGTCL34LW536CYPWZLAYHPQ" width="50px" height="50px" />
+</a>
+<a  href="mailto:robertombbaiochi@gmail.com?subject=link github">
+  <img src="https://raw.githubusercontent.com/RobertoBaiochi/readmeAssets/main/assets/gmail.png?token=GHSAT0AAAAAACIDLYVQLT6X65M7MVM5PC4CZLAYICA" width="50px" height="50px" />
+</a>
+<a  href="https://www.linkedin.com/in/roberto-baiochi/">
+  <img src="https://raw.githubusercontent.com/RobertoBaiochi/readmeAssets/main/assets/site.png?token=GHSAT0AAAAAACIDLYVR7I2LHY6Y3YIEHGMKZLAYIPA" width="50px" height="50px" />
+</a>
+
+
 <hr />
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-baiochi/)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/RobertoBaiochi)
 
 
 ## Stack 💻
