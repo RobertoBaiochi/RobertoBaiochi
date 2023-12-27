@@ -37,4 +37,6 @@ Although it's not my specialty, but I've written a few lines of code in Python, 
 [![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
 
 <hr />
-<figure><embed src="https://wakatime.com/share/@RobertoBaiochi/6d94fe2e-1d2a-4c45-8f33-093f1fec1776.svg"></embed></figure>
+ 
+#### WakaTime: 
+<figure><a href="https://wakatime.com"><img src="https://wakatime.com/share/@RobertoBaiochi/aa4c0f63-3810-4724-80e6-6831875ca063.png" /></a></figure>
