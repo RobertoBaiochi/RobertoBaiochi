@@ -38,5 +38,5 @@ Although it's not my specialty, but I've written a few lines of code in Python, 
 
 <hr />
  
-#### WakaTime: 
+## WakaTime 🚀
 <figure><a href="https://wakatime.com"><img src="https://wakatime.com/share/@RobertoBaiochi/aa4c0f63-3810-4724-80e6-6831875ca063.png" /></a></figure>
