@@ -29,10 +29,8 @@ My name is **Roberto Baiochi** and I am a software developer specializing in web
 
 
 ## Stack 💻
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,git,postgres,androidstudio)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,nodejs,html,css,tailwind,git,postgres,androidstudio)](https://skillicons.dev) 
 <br/>
-<br/>
-[![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
 
 <hr />
  
