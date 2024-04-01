@@ -3,15 +3,13 @@ My name is **Roberto Baiochi** and I am a software developer specializing in web
 
 :round_pushpin: ~ I am currently living in Brazil and looking for new work opportunities.
 
-:mortar_board: ~ I'm studying Systems Analysis and Development and working as a Frontend developer. 
+:mortar_board: ~ I'm studying Systems Analysis and Development and working as a Full-stack developer. 
 
 :computer: ~ I have a variety of technical skills, including using technologies and programming languages such as:
-  - JavaScript / NodeJS / TypeScript.
-  - ReactJs / NextJs / React-Native.
-  - HTML / CSS.
-  - Developing and consuming APIs.
-
-Although it's not my specialty, but I've written a few lines of code in Python, C/C++ and PHP.
+  - JavaScript / TypeScript / React / React-Native
+  - C# / .NET
+  - HTML / CSS / Tailwind
+  - Developing and consuming APIs
 
 <a href="https://www.linkedin.com/in/roberto-baiochi/" target="_blank" style="text-decoration: none;">
   <img src="https://github.com/RobertoBaiochi/readmeAssets/blob/main/assets/linkedin.png" width="50px" height="50px" />
