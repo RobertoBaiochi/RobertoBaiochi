@@ -6,8 +6,8 @@ My name is **Roberto Baiochi** and I am a software developer specializing in web
 :mortar_board: ~ I'm studying Systems Analysis and Development and working as a Full-stack developer. 
 
 :computer: ~ I have a variety of technical skills, including using technologies and programming languages such as:
-  - JavaScript / TypeScript / React / React-Native
-  - C# / .NET
+  - JavaScript / TypeScript / ReactJs / React-Native / NextJs
+  - C# / .NET / NodeJs
   - HTML / CSS / Tailwind
   - Developing and consuming APIs
 
