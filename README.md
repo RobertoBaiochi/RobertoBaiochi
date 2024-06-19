@@ -1,6 +1,8 @@
 ## Hey There!
 My name is **Roberto Baiochi** and I am a software developer specializing in web development.
 
+[![wakatime](https://wakatime.com/badge/user/77fbd94c-64f6-46ed-b87d-40a7477a6b26.svg)](https://wakatime.com/@77fbd94c-64f6-46ed-b87d-40a7477a6b26)
+
 :round_pushpin: ~ I am currently living in Brazil and looking for new work opportunities.
 
 :mortar_board: ~ I'm studying Systems Analysis and Development and working as a Full-stack developer. 
