@@ -19,7 +19,7 @@ My name is **Roberto Baiochi** and I am a software developer specializing in web
 <a href="https://wa.me/+5519988133989" target="_blank" style="text-decoration: none;">
   <img src="https://github.com/RobertoBaiochi/readmeAssets/blob/main/assets/whatsapp.png" width="50px" height="50px" />
 </a>
-<a href="mailto:robertombbaiochi@gmail.com" target="_blank" style="text-decoration: none;">
+<a href="mailto:contato@robertobaiochi.dev.br" target="_blank" style="text-decoration: none;">
   <img src="https://github.com/RobertoBaiochi/readmeAssets/blob/main/assets/gmail.png" width="50px" height="50px" />
 </a>
 <a href="https://robertobaiochi.dev.br" target="_blank" style="text-decoration: none;">
