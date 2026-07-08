@@ -8,8 +8,9 @@ My name is **Roberto Baiochi** and I am a software developer specializing in web
 :mortar_board: ~ I'm studying Systems Analysis and Development and working as a Full-stack developer. 
 
 :computer: ~ I have a variety of technical skills, including using technologies and programming languages such as:
-  - JavaScript / TypeScript / ReactJs / React-Native / NextJs
-  - C# / .NET / NodeJs
+  - JavaScript / TypeScript / ReactJs / React-Native / NextJs / TanStack
+  - Figma
+  - NodeJs / Nestjs / Express
   - HTML / CSS / Tailwind
   - Developing and consuming APIs
 
@@ -31,7 +32,7 @@ My name is **Roberto Baiochi** and I am a software developer specializing in web
 
 
 ## Stack 💻
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,nodejs,html,css,tailwind,git,postgres,androidstudio)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=figma,js,ts,react,nextjs,nodejs,express,nestjs,html,css,tailwind,git,postgres)](https://skillicons.dev) 
 <br/>
 
 <hr />
